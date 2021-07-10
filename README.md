@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MOONINA
-- 👀 I’m interested in python
+- 👀 I’m interested in python , ruby
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
